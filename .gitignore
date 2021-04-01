@@ -1,0 +1,14 @@
+# Mac
+.DS_Store
+
+# Compiled CSS
+/assets/css/*.css
+/assets/css/*.css.map
+
+# Compiles JS
+/assets/js/*.js
+/assets/js/*.min.js
+
+# Node
+node_modules
+.npm-debug.log
