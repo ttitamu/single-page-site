@@ -32,3 +32,4 @@ Note: The default pagination is 10 and you can use the ?per_page= URL variable t
 - The site needs to be able to run easily on a local environment. Please include instructions on how to build/run and access the site.
 - Back-end scripting (node.js, php, etc) can be used, but again provide clear instructions.
 - Please try limit your time to about of 15 hours. There is no minimum or maximum. I do not expect this to be a fully completed app or site, just a good effort.
+- The submitted project should contain all source code. Ideally, you should send back a link to a Github repo.
