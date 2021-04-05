@@ -7,7 +7,7 @@
 - ```npm run watch/prod```
 
 ## Description
-This repo contains some starter tooling for a simple singe page site. The JS files in the JS folder will concatenate and/or Uglify (prod) automatically. The SCSS files in the SCSS folder will compile to CSS and have PostCSS applied (prod) automatically. The index.html file contains only the basic HTML to get started and pulls in the JS and CSS automatically.
+This repo contains some starter tooling for a simple single page site. The JS files in the JS folder will concatenate and/or Uglify (prod) automatically. The SCSS files in the SCSS folder will compile to CSS and have PostCSS applied (prod) automatically. The index.html file contains only the basic HTML to get started and pulls in the JS and CSS automatically.
 
 ## Instructions
 Using the provided APIs below (or a similar comparable API), create an app that does something with the data.
