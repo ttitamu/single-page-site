@@ -19,7 +19,8 @@ Using the provided APIs below (or a similar comparable API), create an app that 
 Note: The default pagination is 10 and you can use the ?per_page= URL variable to change that from 1 to 100 (ex: ?per_page=100).
 
 ### Potential ideas for an app
-- A searchable listing of the data.
+- A searchable listing of roadways with categorization.
+- A listing of roadways with expanding references to the related data.
 - A data visualization using the metadata to illustrate the cost, time, or other data for roadways.
 - A map (best you can using county or something) that allows for interactive display of the data.
 
@@ -30,6 +31,7 @@ Note: The default pagination is 10 and you can use the ?per_page= URL variable t
 
 ## Rules
 - The site needs to be able to run easily on a local environment. Please include instructions on how to build/run and access the site.
+- You are welcome to use any tool or framework you are comfortable with.
 - Back-end scripting (node.js, php, etc) can be used, but again provide clear instructions.
-- Please try limit your time to about of 15 hours. There is no minimum or maximum. I do not expect this to be a fully completed app or site, just a good effort.
+- Please try limit your time to about 15 hours. There is no minimum or maximum. We do not expect this to be a fully completed app or site, just a good effort and working.
 - The submitted project should contain all source code. Ideally, you should send back a link to a Github repo.
