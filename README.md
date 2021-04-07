@@ -4,7 +4,11 @@
 - ```npm install```
 
 ## Build CSS/JS
-- ```npm run watch/prod```
+- ```npm run prod```
+
+To recompile automatically when files are changed:
+- ```npm run watch```
+
 
 ## Description
 This repo contains some starter tooling for a simple single page site. The JS files in the JS folder will concatenate and/or Uglify (prod) automatically. The SCSS files in the SCSS folder will compile to CSS and have PostCSS applied (prod) automatically. The index.html file contains only the basic HTML to get started and pulls in the JS and CSS automatically.
